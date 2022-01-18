@@ -1,0 +1,2 @@
+# iconsax-preview
+Iconsax Preview
